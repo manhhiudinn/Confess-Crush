@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Dinnn',
+    titleWeb: "Dinn",
+    introTitle: 'heluuu babyy',
     introDesc: `Hong biết nà em bé còn zận emm hongggg taaaa`,
     btnIntro: 'Aluu babyy',
     title: 'Mỏninnnn bé iuuu 🥰',
@@ -12,3 +12,6 @@ const CONFIG = {
     reply: 'đượt ruii anh hok zận emm nữa, anh iu emm baby ❤️',
     mess: 'aww 🥰 iuu em bé nắmmmm 😘😘',
     messDesc: 'Em yêu anh ❤️',
+    btnAccept: 'Anh cũng yêu em ❤️',
+    mess link: https://www.facebook.com/ohbabyushouldgoandloveyourself/
+         
